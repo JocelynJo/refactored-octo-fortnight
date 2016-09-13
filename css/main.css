@@ -1,0 +1,71 @@
+.logo{
+	max-width: 250px;
+	height: 34px;
+	margin-left: 30%;
+	float:left;
+}
+.navegador ul li{
+	list-style: none;
+}
+.links{
+	text-decoration: none;
+}
+.navegador ul li {
+	margin-left: 2%;
+	display: inline;
+}
+.nav{
+	margin-left: 24.9%;
+	
+}
+.fon{
+	background-image: url(../image/fondo.png);
+	height: 350px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.contenido{
+	padding-top: 5%;
+	margin-left:20%;
+}
+.form{
+	text-align: center;
+	padding-top:10%;
+	background-color: #9a9a9a;
+	max-height: 200px;
+	max-width: 100%;
+	border-radius: 10px;
+	/*padding-left:15%;
+	padding-top: 5%;*/
+}
+.form1 { 
+	border-style:solid; 
+	background-color:#e0d5e0; 
+	border-color:#bee3b8; 
+	color:#5c575c; 
+	font-size:10px; 
+	padding:6px; 
+	border-width:4px; 
+	border-radius:12px; 
+	text-shadow:0px 0px 0px rgba(42,42,42,.47); 
+	font-weight:normal; 
+	display: block;
+	margin-top: 2%; 
+	width: 80%;
+	margin-left: 10%;
+} 
+.bot{
+	margin-left: 10%;
+	border-style:solid; 
+	background-color:#bee3b8; 
+	color:#5c575c; 
+	font-size:10px; 
+	padding:6px; 
+	border-width:4px; 
+	border-radius:12px; 
+	text-shadow:0px 0px 0px rgba(42,42,42,.47); 
+	font-weight:normal; 
+	display: block;
+	margin-top: 2%; 
+	width: 80%;
+}

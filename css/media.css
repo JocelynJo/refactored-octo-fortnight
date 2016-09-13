@@ -1,0 +1,11 @@
+@media only screen and (max-width: 824px) { [class*="col-"] {
+	width: 100%;
+	}
+	.fon{
+	background-image: url(../image/fondo.png);
+	background-size: 300%
+	height: 600px;
+	background-repeat: no-repeat;
+	}
+
+}
